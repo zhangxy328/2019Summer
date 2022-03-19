@@ -8,7 +8,7 @@ This project is only used to share the results of the work between Group9 team m
 ## Catalog
 * [Homework1](#homework1)
 * [Homework2](#homework2)
-* [Final(Has not begun)](#final)
+* [Final](#final)
 
 ## Homework1
 * 2019.07.24 Set up this repository and upload the original version of Homework1.
@@ -27,3 +27,4 @@ This project is only used to share the results of the work between Group9 team m
 * 2019.08.20 Have the 6th group meeting and discuss on the Part2, correct some answers.
 * 2019.08.21 Have the 7th group meeting and discuss on the Part2, make the final version of Homework2.
 ## Final
+* 2019.09.01 Final DDL
